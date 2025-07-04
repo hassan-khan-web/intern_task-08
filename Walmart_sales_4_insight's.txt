@@ -1,0 +1,11 @@
+1. Quarterly Trend:
+Q4 shows the highest sales overall — sales consistently peak in November and December, indicating strong holiday season impact.
+
+2. Top Stores:
+Store 20 and Store 4 are the highest revenue contributors, each making over 300 million in weekly sales, showing they are key performers.
+
+3. Holiday Impact:
+92.5% of total sales come from non-holiday weeks, while only 7.5% come from holiday weeks — but holiday weeks still show significant spikes.
+
+4. Monthly Seasonality:
+Sales dip mid-year (May–July) and rise sharply toward the end of the year — suggesting Walmart's sales are heavily seasonal and driven by year-end shopping.
